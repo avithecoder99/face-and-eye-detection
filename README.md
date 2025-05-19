@@ -1,3 +1,15 @@
-# face-and-eye-detection
-This project is to detect face and eyes of humans.
-press q to quit the program end capturing.
+## Face and Eye Detection App
+
+### Summary  
+Created a real-time app to detect faces and eyes using OpenCV and deep learning for potential security applications.
+
+### Tools & Techniques  
+Python, OpenCV, CNN
+
+### Outcome  
+- Real-time detection  
+- Accurate facial feature localization  
+- Lightweight and deployable
+
+### Demo / Screenshot (Optional)  
+(Add a screenshot or architecture diagram here)
